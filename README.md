@@ -1,0 +1,5 @@
+# VGA-VHDL-FPGA
+
+VGA with VHDL Language and Xilinix FPGA Spartan3
+
+http://electrobo.blog.ir/1396/02/25/%D8%A7%D8%AA%D8%B5%D8%A7%D9%84-FPGA-%D8%A8%D9%87-%D9%85%D8%A7%D9%86%DB%8C%D8%AA%D9%88%D8%B1-VGA-%D8%A8%D8%A7-VHDL
